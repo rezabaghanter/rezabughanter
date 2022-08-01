@@ -9,3 +9,20 @@ rezabaghanter/rezabaghanter is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 I want to become a great hacker and continue hacking and security.
+apt update
+
+apt upgrade
+
+Install the packages
+
+pkg install git
+
+pkg install python2
+
+pip2 install requests
+
+git clone https://github.com/Junior60/vbug.git
+
+cd vbug
+
+python2 vbug.py
